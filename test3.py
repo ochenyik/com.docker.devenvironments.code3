@@ -12,4 +12,4 @@ above50 = 0
 for counter in range(len(numbers)):
     if numbers[counter] > 50:
         above50 = above50 + 1
-print("The has", above50, "numbers above 50")
+print("The has", above50, "numbers above 50
